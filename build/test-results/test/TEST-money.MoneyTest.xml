@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="money.MoneyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-10T06:21:19" hostname="ihyeyeong-ui-MacBookPro.local" time="0.012">
+<testsuite name="money.MoneyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-10T06:25:37" hostname="ihyeyeong-ui-MacBookPro.local" time="0.02">
   <properties/>
-  <testcase name="testMultiplication()" classname="money.MoneyTest" time="0.012"/>
+  <testcase name="testEquality()" classname="money.MoneyTest" time="0.02"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
